@@ -3,4 +3,5 @@
   <groupId>TestGit3</groupId>
   <artifactId>TestGit3</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <--TEST FOR PULL-->
 </project>
